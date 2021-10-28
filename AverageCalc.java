@@ -13,7 +13,8 @@ class Average{
 
         result = (a + b + c) / 3f;
     }
-};
+}
+
 class AverageCalc{
     public static void main (String args[]) throws IOException, ArithmeticException{
 
