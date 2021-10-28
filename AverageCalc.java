@@ -35,4 +35,4 @@ class AverageCalc{
         // Prints the result.
         System.out.println(average.result);
     }
-};
+}
